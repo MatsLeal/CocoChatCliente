@@ -1,0 +1,6 @@
+{origen : 'Alain' , mensaje : 'hola' , destinatario : 'Mats' }
+{origen : 'Mats' , mensaje : 'Hola' , destinatario : 'Alain' }
+{origen : 'Mats' , mensaje : 'asdf' , destinatario : 'Alain' }
+{origen : 'Mats' , mensaje : ':)' , destinatario : 'Alain' }
+{origen : 'Alain' , mensaje : 'Hola ' , destinatario : 'Mats' }
+{origen : 'Mats' , mensaje : 'Reponser' , destinatario : 'Alain' }

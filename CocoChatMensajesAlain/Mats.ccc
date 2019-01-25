@@ -1,0 +1,2 @@
+{origen : 'Alain' , mensaje : 'Hola ' , destinatario : 'Mats' }
+{origen : 'Mats' , mensaje : 'Reponser' , destinatario : 'Alain' }

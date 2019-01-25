@@ -1,0 +1,7 @@
+{origen : 'Alain' , mensaje : 'Hey !' , destinatario : 'Omar' }
+{origen : 'Omar' , mensaje : 'Que pasa ?' , destinatario : 'Alain' }
+{origen : 'Alain' , mensaje : 'Como andas ?' , destinatario : 'Omar' }
+{origen : 'Omar' , mensaje : 'Bien viejo, tu que cuentas ?' , destinatario : 'Alain' }
+{origen : 'Alain' , mensaje : 'Nomas, aquie tirando codigo bb' , destinatario : 'Omar' }
+{origen : 'Omar' , mensaje : 'Jajajaja, apoco si cabron, si ni haces nada :v:' , destinatario : 'Alain' }
+{origen : 'Omar' , mensaje : 'Ay ay ay !' , destinatario : 'Alain' }

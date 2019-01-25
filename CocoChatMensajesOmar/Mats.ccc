@@ -1,0 +1,12 @@
+{origen : 'Omar' , mensaje : 'Hey !' , destinatario : 'Mats' }
+{origen : 'Mats' , mensaje : 'Que onda viejo ' , destinatario : 'Omar' }
+{origen : 'Omar' , mensaje : 'Que onda, temrinaste nuestro chat ?' , destinatario : 'Mats' }
+{origen : 'Mats' , mensaje : 'Ya casi hermano :)' , destinatario : 'Omar' }
+{origen : 'Omar' , mensaje : 'Que falta ' , destinatario : 'Mats' }
+{origen : 'Mats' , mensaje : 'Las interfaces de agregar amigo' , destinatario : 'Omar' }
+{origen : 'Mats' , mensaje : 'Y las de los grupos' , destinatario : 'Omar' }
+{origen : 'Mats' , mensaje : 'Pero ahorita en chinga lo terminamos' , destinatario : 'Omar' }
+{origen : 'Omar' , mensaje : 'We' , destinatario : 'Mats' }
+{origen : 'Omar' , mensaje : 'Si necesitas paro nomas avisa :)' , destinatario : 'Mats' }
+{origen : 'Mats' , mensaje : 'Arre viejo, gracias !' , destinatario : 'Omar' }
+{origen : 'Omar' , mensaje : 'Arre' , destinatario : 'Mats' }
